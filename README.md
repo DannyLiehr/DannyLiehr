@@ -1,4 +1,4 @@
-- Hi, I’m Danny. I use he or they pronouns. <br/>`Ex: Danny likes to make [his/their] own small apps for [himself/themself].` <br/>My online moniker is **Dee Deyes**. You can totally call me Dee if you'd like.
+- Hi, I’m Danny. I use he pronouns. <br/>`Ex: Danny likes to make [his] own small apps for [himself].` <br/>My online moniker is **Dee Deyes**. You can totally call me Dee if you'd like.
 - I’m interested in Python, PHP, Javascript, and databases.
 - I’m currently learning about C++ and modifying my own computer tower.
 - You can reach me at my email.
