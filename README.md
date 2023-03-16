@@ -6,4 +6,4 @@
 
 The gaps in my repositories is from making things and not placing them up on Github.
 
-I'm 26 years old, and when I'm not coding, I'm drawing. I have gone to get an education for both of these things! I'm known primarily for my art in the Gorillaz community. I want to be known for making little games, too.
+I'm 27 years old, and when I'm not coding, I'm drawing. I have gone to get an education for both of these things! I'm known primarily for my art in the Gorillaz community. I want to be known for making little games, too.
