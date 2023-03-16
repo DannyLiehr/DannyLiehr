@@ -1,9 +1,4 @@
-- Hi, I’m Danny. I use he pronouns. <br/>`Ex: Danny likes to make [his] own small apps for [himself].` <br/>You can totally call me Dee if you'd like.
-- I’m interested in Python, PHP, Javascript, and databases.
-- I’m currently learning about C++ and modifying my own computer tower.
-- You can reach me at my email.
-- I tend to post various projects here, and tinker around with repl.it.
-
-The gaps in my repositories is from making things and not placing them up on Github.
-
-I'm 27 years old, and when I'm not coding, I'm drawing. I have gone to get an education for both of these things! I'm known primarily for my art in the Gorillaz community. I want to be known for making little games, too.
+Hi, I’m Danny. You can totally call me Dee if you'd like. I’m interested in Python, PHP, Javascript, and databases. Currently a Graphic Designer at Mail Shark. I'm 27 years old, and when I'm not coding, I'm drawing. I have gone to get an education for both of these things! I'm known primarily for my art in the Gorillaz community. I want to be known for making little games, too.
+I used to make mods for _Don't Starve_ and _Don't Starve Together_, but the latter has changed drastically since I last played regularly. Still, those mods are posted here as well. Willoughby is not maintained anymore because that mod has become kind of redundant after the gardening update. I've been modding 2-D into _Don't Starve: Shipwrecked_, but I need to get back into the headspace to resume it.
+My largest project is not listed here because it's not open source. `www.writelighthouse.com`. A journal app for people who experience structural dissociation (typically present in dissociative disorders). Still a big work-in-progress. Biggest thing about it is the data for journal posts, alter names, system names, etc are all encrypted/decrypted on the client's side. This is to keep anyone using the app in a turbulent household from being outed to others. Also has a currently rudimentary area for users to develop their "inner world"-- essentially their "happy place".
+Outside of work, my interests include listening to/drawing Gorillaz, watching Jerma, and writing about my experiences with mental health. I like to play Zelda games, The Sims 4, Minecraft, Don't Starve, and very occasionally Team Fortress 2 (MvM Scout main).
