@@ -1,7 +1,15 @@
-Hi, I’m Danny. You can totally call me Dee if you'd like. I’m interested in Python, PHP, Javascript, and databases. Currently a Jr. Full Stack Developer at Mail Shark. I'm 28 years old, and when I'm not coding, I'm drawing. I have gone to get an education for both of these things! I'm known primarily for my art in the Gorillaz community. I want to be known for making little games, too.
+# Hi, I’m Danny! `(He/They)`
+You can totally call me Dee if you'd like.
 
-I used to make mods for _Don't Starve_ and _Don't Starve Together_, but the latter has changed drastically since I last played regularly.
+## Skills and Interests
+* Javascript, Databases
+* Building Discord Bots
+* Full Stack Development
+* Gorillaz (Listening, making art and stories)
+* Sandbox games like Cities Skylines 1, Minecraft, Don't Starve
 
-My largest project is not listed here because it's not open source. `www.writelighthouse.com`. A journal app for people who experience structural dissociation (typically present in dissociative disorders). Still a big work-in-progress.
+## Lighthouse
+[Lighthouse](https://www.writelighthouse.com) is my most significant passion project to date. 
+It's a journal app for people who experience structural dissociation (typically present in dissociative disorders). Still a big work-in-progress. But I will say that the project is built on ExpressJS, vanilla javascript, and Postgres. 
 
-Outside of work, my interests include listening to/drawing Gorillaz, watching Jerma, and writing about my experiences with mental health. I like to play Zelda games, The Sims 4, Minecraft, Don't Starve, and very occasionally Team Fortress 2 (MvM Scout main).
+If you create an account and go to the settings page, you'll see where I've begun to build an API!
