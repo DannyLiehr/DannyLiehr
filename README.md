@@ -1,5 +1,5 @@
-# Hi, I’m Danny! `(He/They)`
-You can totally call me Dee if you'd like.
+# Hi, I’m Danny!
+You can totally call me Dee if you'd like. He/They pronouns please.
 
 ## Skills and Interests
 * Javascript, Databases
