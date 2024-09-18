@@ -7,6 +7,7 @@ You can totally call me Dee if you'd like. He/They pronouns please.
 * Full Stack Development
 * Gorillaz (Listening, making art and stories)
 * Sandbox games like Cities Skylines 1, Minecraft, Don't Starve
+* Sonic games
 
 ## Lighthouse
 [Lighthouse](https://www.writelighthouse.com) is my most significant passion project to date. 
