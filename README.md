@@ -9,6 +9,9 @@ You can totally call me Dee if you'd like. He/They pronouns please.
 * Sandbox games like Cities Skylines 1, Minecraft, Don't Starve
 * Sonic games
 
+## Contribution Gaps
+I have gaps in my contributions when I'm working on private software that does not need a repository.
+
 ## Lighthouse
 [Lighthouse](https://www.writelighthouse.com) is my most significant passion project to date. 
 It's a journal app for people who experience structural dissociation (typically present in dissociative disorders). Still a big work-in-progress. But I will say that the project is built on ExpressJS, vanilla javascript, and Postgres. 
