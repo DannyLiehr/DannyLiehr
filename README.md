@@ -11,7 +11,6 @@ You can totally call me Dee if you'd like. He/They pronouns please.
 * Building Discord Bots
 * Full Stack Development
 * Gorillaz (Listening, making art and stories)
-* Sandbox games like Cities Skylines 1, Minecraft, Don't Starve
 * Sonic games
 
 ## Contribution Gaps
