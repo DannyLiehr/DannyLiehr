@@ -1,7 +1,7 @@
 # Hi, I’m Danny!
 You can totally call me Dee if you'd like. He/They pronouns please.
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DannyLiehr&locale=en&hide_title=false&layout=compact&card_width=640&langs_count=8&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DannyLiehr&locale=en&hide_title=false&layout=compact&card_width=640&langs_count=10&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
