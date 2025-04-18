@@ -14,7 +14,7 @@ You can totally call me Dee if you'd like. He/They pronouns please.
 * Sonic games
 
 ## Contribution Gaps
-I have gaps in my contributions when I'm working on private software that does not need a repository.
+I have gaps in my contributions when I'm working on private software that does not need a repository, or when I'm contributing to private organisations.
 
 ## Lighthouse
 [Lighthouse](https://www.writelighthouse.com) is my most significant passion project to date. 
